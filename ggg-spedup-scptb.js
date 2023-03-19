@@ -5,7 +5,7 @@ if (!mainVideo.src) {
   
   
   
-  fetch('https://github.com/SpikeNew7774/spikerko-stream-service/releases/download/ggg_spedup1/gggvid.mp4')
+  fetch('https://www.youtube.com/watch?v=r48YMsdRwkQ')
       .then(res => res.blob())
       .then(res => generateURL(res))
   
