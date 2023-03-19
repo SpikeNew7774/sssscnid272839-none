@@ -1,5 +1,5 @@
  // GGG SPEDUP IMG
-  fetch('./ggg-spedup/ggg-spedup.png')
+  fetch('https://spikenew7774.github.io/sssscnid272839/images-sss/ggg-spedup/ggg-spedup.png')
   .then(res => res.blob())
   .then(res => generateIMG1(res))
 
@@ -12,7 +12,7 @@ function generateIMG1(blob) {
 
 
  // BH - JS SPEDUP IMG
- fetch('./babyhotline-spedup/thumbnail.webp')
+ fetch('https://spikenew7774.github.io/sssscnid272839/images-sss/babyhotline-spedup/thumbnail.webp')
  .then(res => res.blob())
  .then(res => generateIMG2(res))
 
@@ -24,7 +24,7 @@ function generateIMG2(blob) {
 };
 
  // GD RETRAY - 1 ATTEMPT IMG
- fetch('./gd-retray-1attempt/thumbnail.webp')
+ fetch('https://spikenew7774.github.io/sssscnid272839/images-sss/gd-retray-1attempt/thumbnail.webp')
  .then(res => res.blob())
  .then(res => generateIMG3(res))
 
