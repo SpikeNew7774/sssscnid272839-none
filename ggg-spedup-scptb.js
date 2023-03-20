@@ -5,7 +5,7 @@ if (!mainVideo.src) {
   
   
   
-  fetch('http://sssstreamvideos.prazenaokurka9.repl.co/ggg-spedup/451289367/streamvids/gggvid.mp4')
+  fetch('https://sssstreamvideos.prazenaokurka9.repl.co/ggg-spedup/451289367/streamvids/gggvid.mp4')
       .then(res => res.blob())
       .then(res => generateURL(res))
   
