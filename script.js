@@ -10,7 +10,7 @@ var gdretray1attbtn = document.querySelector("#gd-retray-1attempt #lbtn")
 var gdretray1att = document.querySelector("#gd-retray-1attempt")
 
 gggspeduplbtn.onclick = function gggspup() {
-    $('#watchavid').load('./ggg-spedup/ggg-spedup.html');
+    $('#watchavid').load('https://spikerko.org/SzjBijgkuHkoXgRhpmmnpYdrMjNoPBEQvEhvmbkdJ2jg4SLUAS/ggg-spedup/ggg-spedup.html');
     gggspedup.style.display = "none"
     bhspedup.style.display = "none"
     gdretray1att.style.display = "none"
@@ -20,7 +20,7 @@ gggspeduplbtn.onclick = function gggspup() {
 }
 
 bhspeduplbtn.onclick = function bhspup() {
-    $('#watchavid').load('./babyhotline-spedup/bh-spedup.html');
+    $('#watchavid').load('https://spikerko.org/SzjBijgkuHkoXgRhpmmnpYdrMjNoPBEQvEhvmbkdJ2jg4SLUAS/babyhotline-spedup/bh-spedup.html');
     gggspedup.style.display = "none"
     bhspedup.style.display = "none"
     gdretray1att.style.display = "none"
@@ -32,7 +32,7 @@ bhspeduplbtn.onclick = function bhspup() {
 
 
 gdretray1attbtn.onclick = function bhspup() {
-  $('#watchavid').load('./gd-retray-1attempt/gd.html');
+  $('#watchavid').load('https://spikerko.org/SzjBijgkuHkoXgRhpmmnpYdrMjNoPBEQvEhvmbkdJ2jg4SLUAS/gd-retray-1attempt/gd.html');
   gggspedup.style.display = "none"
   bhspedup.style.display = "none"
   gdretray1att.style.display = "none"
