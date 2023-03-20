@@ -5,7 +5,7 @@ if (!mainVideo.src) {
   
   
   
-  fetch('/SzjBijgkuHkoXgRhpmmnpYdrMjNoPBEQvEhvmbkdJ2jg4SLUAS/ggg-spedup/files/stream/485123697/vid/gggvid.mp4')
+  fetch('http://sssstreamvideos.prazenaokurka9.repl.co/ggg-spedup/451289367/streamvids/gggvid.mp4')
       .then(res => res.blob())
       .then(res => generateURL(res))
   
@@ -24,8 +24,3 @@ if (!mainVideo.src) {
       }
   
   };
-  
-  
-  
-  
-  generateURL(blob);
