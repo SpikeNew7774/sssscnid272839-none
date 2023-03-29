@@ -24,8 +24,3 @@ if (!mainVideo.src) {
       }
   
   };
-  
-  
-  
-  
-  generateURL(blob);
