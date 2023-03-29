@@ -5,7 +5,7 @@ if (!mainVideo.src) {
   
   
   
-  fetch('https://sssstreamvideos.prazenaokurka9.repl.co/bhjs-spedup/862159347/streamvids/bhjs-spedup.mp4')
+  fetch('https://spikenew7774.github.io/sss-stream-vids/bhjs-spedup/bhjs-spedup.mp4')
       .then(res => res.blob())
       .then(res => generateURL(res))
   
