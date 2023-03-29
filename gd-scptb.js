@@ -5,7 +5,7 @@ if (!mainVideo.src) {
   
   
   
-  fetch('https://sssstreamvideos.prazenaokurka9.repl.co/gd-retray-1attempt/265314987/streamvids/gd-retray-1attempt.mp4')
+  fetch('https://spikenew7774.github.io/sss-stream-vids/gdr1a/gd-retray-1attempt.mp4')
       .then(res => res.blob())
       .then(res => generateURL(res))
   
